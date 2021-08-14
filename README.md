@@ -1,4 +1,4 @@
-# ML-MOOC-NPTEL
+# ML-NPTEL-IITKGP
 This repository contains the Tutorials for the NPTEL MOOC on Machine Learning.
 
 ## Pro Tip:
